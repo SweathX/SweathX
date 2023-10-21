@@ -13,10 +13,10 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell&logoColor=5D4F85)](https://www.haskell.org/)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 
