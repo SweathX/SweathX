@@ -18,6 +18,8 @@
 [![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell&logoColor=5D4F85)](https://www.haskell.org/)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 
+[![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&logoColor=61DAFB)](https://reactnative.dev/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
