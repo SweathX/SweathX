@@ -2,8 +2,6 @@
 
 📬 Contactez-moi sur: [matheo.beaunez@epitech.eu](mailto:matheo.beaunez@epitech.eu)
 
-https://www.matheobeaunez.fr/
-
 ## Me retrouver
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/SweathX/)
@@ -32,3 +30,5 @@ https://www.matheobeaunez.fr/
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
+
+Venez en découvrir plus sur mon **portfolio** : https://www.matheobeaunez.fr/
