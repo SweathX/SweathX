@@ -2,6 +2,8 @@
 
 📬 Contactez-moi sur: [matheo.beaunez@epitech.eu](mailto:matheo.beaunez@epitech.eu)
 
+https://www.matheobeaunez.fr/
+
 ## Me retrouver
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/SweathX/)
