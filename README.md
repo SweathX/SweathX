@@ -19,7 +19,6 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&logoColor=61DAFB)](https://reactnative.dev/)
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
