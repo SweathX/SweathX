@@ -60,36 +60,23 @@ const matheo = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projet récent
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SweathX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweathX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
+<table>
+<tr>
+<td>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SweathX&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
+### 🍅 Pomodoro Hiiiddy
+Timer Pomodoro moderne avec thème forêt/bambou pour streamers.
 
----
+**Stack :** Next.js 15, React 19, TypeScript, Tailwind CSS, Zustand
 
-## 🚀 Projets récents
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://pomodoro-hiiiddy.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github)](https://github.com/SweathX/Pomodoro-Hiiiddy)
 
-<div align="center">
-
-[![Pomodoro Hiiiddy](https://github-readme-stats.vercel.app/api/pin/?username=SweathX&repo=Pomodoro-Hiiiddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/SweathX/Pomodoro-Hiiiddy)
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-![Snake animation](https://github.com/SweathX/SweathX/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
