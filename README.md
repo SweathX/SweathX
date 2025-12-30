@@ -14,19 +14,13 @@
 
 ## 🙋‍♂️ À propos de moi
 
-```javascript
-const matheo = {
-    formation: "Étudiant @ Epitech",
-    localisation: "Montpellier, France 🇫🇷",
-    passion: ["Développement Web", "Gaming", "Open Source"],
-    funFact: "Je code mieux avec un café ☕"
-};
-```
+🎓 Étudiant à **Epitech Montpellier**
 
-- 🔭 Je travaille actuellement sur des **projets web full stack**
-- 🌱 J'apprends **Vue.js, Nuxt.js** et je perfectionne mon **React**
-- 💬 N'hésite pas à me contacter pour discuter **développement web**
-- 📫 Contact : **matheo.beaunez@epitech.eu**
+🔭 Je travaille actuellement sur des **projets web full stack**
+
+🌱 J'apprends **Vue.js, Nuxt.js** et je perfectionne mon **React**
+
+📫 Contact : **matheo.beaunez@epitech.eu**
 
 ---
 
@@ -62,28 +56,18 @@ const matheo = {
 
 ## 🚀 Projet récent
 
-<table>
-<tr>
-<td>
-
 ### 🍅 Pomodoro Hiiiddy
 Timer Pomodoro moderne avec thème forêt/bambou pour streamers.
 
-**Stack :** Next.js 15, React 19, TypeScript, Tailwind CSS, Zustand
+**Stack :** Next.js 15 · React 19 · TypeScript · Tailwind CSS · Zustand
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://pomodoro-hiiiddy.vercel.app)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github)](https://github.com/SweathX/Pomodoro-Hiiiddy)
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-**Merci d'avoir visité mon profil !** 🙏
-
-![Visitors](https://komarev.com/ghpvc/?username=SweathX&color=58a6ff&style=for-the-badge&label=Visiteurs)
+![Visitors](https://komarev.com/ghpvc/?username=SweathX&color=58a6ff&style=flat-square&label=Visiteurs)
 
 </div>
