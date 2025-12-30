@@ -1,33 +1,102 @@
-# SweathX 👋
+<div align="center">
 
-📬 Contactez-moi sur: [matheo.beaunez@epitech.eu](mailto:matheo.beaunez@epitech.eu)
+# Hey, moi c'est Mathéo ! 👋
 
-## Me retrouver
+### Développeur Full Stack passionné
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/SweathX/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/matheo-beaunez-761435214/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-matheobeaunez.fr-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.matheobeaunez.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathéo_Beaunez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-beaunez-761435214/)
+[![Discord](https://img.shields.io/badge/Discord-SweathX-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-## Languages et outils
+</div>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+---
 
-[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell&logoColor=5D4F85)](https://www.haskell.org/)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=3776AB)](https://www.python.org/)
+## 🙋‍♂️ À propos de moi
 
-[![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=React&logoColor=61DAFB)](https://reactjs.org/)
+```javascript
+const matheo = {
+    formation: "Étudiant @ Epitech",
+    localisation: "Montpellier, France 🇫🇷",
+    passion: ["Développement Web", "Gaming", "Open Source"],
+    funFact: "Je code mieux avec un café ☕"
+};
+```
 
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+- 🔭 Je travaille actuellement sur des **projets web full stack**
+- 🌱 J'apprends **Vue.js, Nuxt.js** et je perfectionne mon **React**
+- 💬 N'hésite pas à me contacter pour discuter **développement web**
+- 📫 Contact : **matheo.beaunez@epitech.eu**
 
-## En apprentissage / perfectionnement
+---
 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
-[![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
+## 🛠️ Stack Technique
 
-Venez en découvrir plus sur mon **portfolio** : https://www.matheobeaunez.fr/
+<div align="center">
+
+### Langages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SweathX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SweathX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SweathX&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+## 🚀 Projets récents
+
+<div align="center">
+
+[![Pomodoro Hiiiddy](https://github-readme-stats.vercel.app/api/pin/?username=SweathX&repo=Pomodoro-Hiiiddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/SweathX/Pomodoro-Hiiiddy)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+![Snake animation](https://github.com/SweathX/SweathX/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**Merci d'avoir visité mon profil !** 🙏
+
+![Visitors](https://komarev.com/ghpvc/?username=SweathX&color=58a6ff&style=for-the-badge&label=Visiteurs)
+
+</div>
