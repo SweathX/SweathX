@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-🎓 Étudiant à **Epitech Montpellier**
+🎓 Étudiant à **Epitech** en 5 ème année
 
 🔭 Je travaille actuellement sur des **projets web full stack**
 
