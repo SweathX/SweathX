@@ -14,9 +14,9 @@
 
 ## 🙋‍♂️ À propos de moi
 
-🎓 Étudiant **Epitech** diplomé en tant qu'Ingénieur Logiciel
-🚀 Je conçois et je mets en prod des SaaS / produits web (Next.js / TypeScript)
-🔍 **Disponible en CDI à partir de Septembre/Novembre 2026** — je vise des équipes produit, autonomes, sur des sujets à vraie profondeur métier
+🎓 Étudiant **Epitech** diplomé en tant qu'Ingénieur Logiciel<br>
+🚀 Je conçois et je mets en prod des SaaS / produits web (Next.js / TypeScript)<br>
+🔍 **Disponible en CDI à partir de Septembre/Novembre 2026** — je vise des équipes produit, autonomes, sur des sujets clair et passionant métier<br>
 📫 Contact : **matheo.beaunez@epitech.eu**
 
 ---
