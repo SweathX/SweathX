@@ -14,11 +14,9 @@
 
 ## 🙋‍♂️ À propos de moi
 
-🎓 Étudiant à **Epitech** en 5ème année (Bac+5)
-💼 Actuellement **développeur Java** chez **Sopra Steria** sur un SI métier à forte volumétrie (CNAV)
-🚀 En parallèle, je conçois et je mets en prod mes propres produits web (Next.js / TypeScript)
-🔍 **Disponible en CDI à partir de novembre 2026** — je vise des équipes produit, autonomes, sur des sujets à vraie profondeur métier
-📍 Région de **Montpellier**
+🎓 Étudiant **Epitech** diplomé en tant qu'Ingénieur Logiciel
+🚀 Je conçois et je mets en prod des SaaS / produits web (Next.js / TypeScript)
+🔍 **Disponible en CDI à partir de Septembre/Novembre 2026** — je vise des équipes produit, autonomes, sur des sujets à vraie profondeur métier
 📫 Contact : **matheo.beaunez@epitech.eu**
 
 ---
