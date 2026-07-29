@@ -71,7 +71,7 @@ Simulateur de coût d'importation de véhicules en France : malus écologique, T
 
 ### 🩺 DDXVet
 
-Application d'aide à l'interprétation de bilans sanguins vétérinaires. Système expert déterministe co-conçu avec une vétérinaire praticienne.
+Application d'aide à l'interprétation de bilans sanguins vétérinaires. Système expert déterministe co-conçu avec un vétérinaire praticien.
 
 **Stack :** Next.js · React · TypeScript
 
@@ -79,7 +79,7 @@ Application d'aide à l'interprétation de bilans sanguins vétérinaires. Syst�
 
 ### 🥐 Aux Péchés Gourmands
 
-Site vitrine multilingue (FR/EN/ES) pour une boulangerie à Palavas-les-Flots. Optimisation SEO complète : JSON-LD, hreflang, compression d'assets (12 Mo → 760 Ko).
+Site vitrine multilingue (FR/EN/ES) pour une boulangerie à Palavas-les-Flots. Optimisation SEO complète.
 
 **Stack :** Next.js · TypeScript · Tailwind CSS
 
