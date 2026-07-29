@@ -90,12 +90,4 @@ Timer Pomodoro moderne avec thème forêt/bambou, pensé pour les streamers.
 [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://pomodoro-hiiiddy.vercel.app)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github)](https://github.com/SweathX/Pomodoro-Hiiiddy)
 
----
 
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SweathX&theme=github_dark)
-
-![Visitors](https://komarev.com/ghpvc/?username=SweathX&color=58a6ff&style=flat-square&label=Visiteurs)
-
-</div>
