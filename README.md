@@ -43,8 +43,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Outils & DevOps
 
@@ -96,7 +94,7 @@ Timer Pomodoro moderne avec thème forêt/bambou, pensé pour les streamers.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SweathX&show_icons=true&hide_border=true&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SweathX&theme=github_dark)
 
 ![Visitors](https://komarev.com/ghpvc/?username=SweathX&color=58a6ff&style=flat-square&label=Visiteurs)
 
