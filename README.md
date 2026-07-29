@@ -2,7 +2,7 @@
 
 # Hey, moi c'est Mathéo ! 👋
 
-### Développeur Full Stack passionné
+### Développeur Full Stack · Java & TypeScript
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-matheobeaunez.fr-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.matheobeaunez.fr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathéo_Beaunez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheo-beaunez-761435214/)
@@ -14,12 +14,11 @@
 
 ## 🙋‍♂️ À propos de moi
 
-🎓 Étudiant à **Epitech** en 5 ème année
-
-🔭 Je travaille actuellement sur des **projets web full stack**
-
-🌱 J'apprends **Vue.js, Nuxt.js** et je perfectionne mon **React**
-
+🎓 Étudiant à **Epitech** en 5ème année (Bac+5)
+💼 Actuellement **développeur Java** chez **Sopra Steria** sur un SI métier à forte volumétrie (CNAV)
+🚀 En parallèle, je conçois et je mets en prod mes propres produits web (Next.js / TypeScript)
+🔍 **Disponible en CDI à partir de novembre 2026** — je vise des équipes produit, autonomes, sur des sujets à vraie profondeur métier
+📍 Région de **Montpellier**
 📫 Contact : **matheo.beaunez@epitech.eu**
 
 ---
@@ -28,14 +27,23 @@
 
 <div align="center">
 
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Langages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -43,21 +51,46 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Outils
+### Outils & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projet récent
+## 🚀 Projets
+
+### 🚗 CoutImport
+
+Simulateur de coût d'importation de véhicules en France : malus écologique, TVA, quitus fiscal, frais de carte grise. Barèmes officiels, calculs à jour.
+
+**Stack :** Next.js 15 · TypeScript · Drizzle ORM · PostgreSQL (Neon) · Vercel
+
+[![Demo](https://img.shields.io/badge/Site-coutimport.fr-success?style=flat-square)](https://coutimport.fr)
+
+### 🩺 DDXVet
+
+Application d'aide à l'interprétation de bilans sanguins vétérinaires. Système expert déterministe co-conçu avec une vétérinaire praticienne.
+
+**Stack :** Next.js · React · TypeScript
+
+[![Demo](https://img.shields.io/badge/Site-ddxvet.fr-success?style=flat-square)](https://ddxvet.fr)
+
+### 🥐 Aux Péchés Gourmands
+
+Site vitrine multilingue (FR/EN/ES) pour une boulangerie à Palavas-les-Flots. Optimisation SEO complète : JSON-LD, hreflang, compression d'assets (12 Mo → 760 Ko).
+
+**Stack :** Next.js · TypeScript · Tailwind CSS
 
 ### 🍅 Pomodoro Hiiiddy
-Timer Pomodoro moderne avec thème forêt/bambou pour streamers.
+
+Timer Pomodoro moderne avec thème forêt/bambou, pensé pour les streamers.
 
 **Stack :** Next.js 15 · React 19 · TypeScript · Tailwind CSS · Zustand
 
@@ -67,6 +100,8 @@ Timer Pomodoro moderne avec thème forêt/bambou pour streamers.
 ---
 
 <div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SweathX&show_icons=true&hide_border=true&theme=github_dark)
 
 ![Visitors](https://komarev.com/ghpvc/?username=SweathX&color=58a6ff&style=flat-square&label=Visiteurs)
 
